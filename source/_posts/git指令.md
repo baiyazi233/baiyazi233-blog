@@ -1,3 +1,9 @@
+---
+title: git
+date: 2024-06-27
+tages:
+---
+
 # git
 
 ## gitconfig设置
